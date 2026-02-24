@@ -1,0 +1,12 @@
+[package]
+name = "mclient-project"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+azalea-chat = "0.15.0"
+base64 = "0.22.1"
+flate2 = "1.1.5"
+mc-varint = "0.1.1"
+serde = "1.0.228"
+serde_json = "1.0.148"
